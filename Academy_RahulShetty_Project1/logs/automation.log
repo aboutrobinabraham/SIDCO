@@ -1,0 +1,73 @@
+2025-03-10 17:01:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 17:01:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+
+2025-03-10 17:08:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 17:08:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+
+2025-03-10 17:19:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 17:19:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+
+2025-03-10 17:40:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 17:40:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+
+2025-03-10 17:43:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ROBINA~1\AppData\Local\Temp\testng-eclipse--410113610\testng-customsuite.xml"
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\AppData\Local\Temp\testng-eclipse--410113610\testng-customsuite.xml
+
+2025-03-10 17:43:07 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-03-10 17:43:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4c4d362a: 215 ms
+2025-03-10 17:43:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@37fbe4a8: 29 ms
+2025-03-10 17:43:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5769e7ae: 15 ms
+2025-03-10 17:43:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2970a5bc: 24 ms
+2025-03-10 17:43:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2ad3a1bb: 9 ms
+2025-03-10 17:43:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6bc28a83: 0 ms
+2025-03-10 17:43:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 17:43:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+
+2025-03-10 17:52:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 17:52:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+
+2025-03-10 18:00:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 18:00:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+
+2025-03-10 18:22:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml"
+2025-03-10 18:22:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\RobinAbraham\Downloads\Academy_RahulShetty_Project1-20250305T120021Z-001\Academy_RahulShetty_Project1\testng.xml
+

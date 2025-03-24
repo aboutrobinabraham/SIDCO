@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-11T13:15:39 IST" name="Suite" finished-at="2025-03-11T13:18:57 IST" duration-ms="198281">
+    <groups>
+    </groups>
+    <test started-at="2025-03-11T13:15:39 IST" name="chrometest" finished-at="2025-03-11T13:18:57 IST" duration-ms="198281">
+      <class name="testCase.Test_Product">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:16:40 IST" name="setUp" finished-at="2025-03-11T13:16:49 IST" duration-ms="8368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:16:49 IST" name="login" finished-at="2025-03-11T13:16:57 IST" duration-ms="8659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testSearch()[pri:1, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:16:57 IST" name="testSearch" finished-at="2025-03-11T13:17:20 IST" duration-ms="22431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:17:20 IST" name="takeScreenshotOnFailure" finished-at="2025-03-11T13:17:20 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearch status=SUCCESS method=Test_Product.testSearch()[pri:1, instance:testCase.Test_Product@274872f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="brandNameVerification()[pri:2, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:17:20 IST" name="brandNameVerification" finished-at="2025-03-11T13:17:31 IST" depends-on-methods="testCase.Test_Product.testSearch" duration-ms="11128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brandNameVerification -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:17:31 IST" name="takeScreenshotOnFailure" finished-at="2025-03-11T13:17:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=brandNameVerification status=SUCCESS method=Test_Product.brandNameVerification()[pri:2, instance:testCase.Test_Product@274872f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="testFilter()[pri:3, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:17:31 IST" name="testFilter" finished-at="2025-03-11T13:17:45 IST" depends-on-methods="testCase.Test_Product.testSearch" duration-ms="13717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilter -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:17:45 IST" name="takeScreenshotOnFailure" finished-at="2025-03-11T13:17:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testFilter status=SUCCESS method=Test_Product.testFilter()[pri:3, instance:testCase.Test_Product@274872f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="testAddtoCart()[pri:4, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:17:45 IST" name="testAddtoCart" finished-at="2025-03-11T13:18:10 IST" depends-on-methods="testCase.Test_Product.testSearch" duration-ms="25554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddtoCart -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:18:10 IST" name="takeScreenshotOnFailure" finished-at="2025-03-11T13:18:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddtoCart status=SUCCESS method=Test_Product.testAddtoCart()[pri:4, instance:testCase.Test_Product@274872f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="testCheckOut()[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:18:10 IST" name="testCheckOut" finished-at="2025-03-11T13:18:52 IST" depends-on-methods="testCase.Test_Product.testAddtoCart" duration-ms="42018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckOut -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:18:52 IST" name="takeScreenshotOnFailure" finished-at="2025-03-11T13:18:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCheckOut status=SUCCESS method=Test_Product.testCheckOut()[pri:0, instance:testCase.Test_Product@274872f8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:18:52 IST" name="LogOut" finished-at="2025-03-11T13:18:55 IST" duration-ms="2881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.Test_Product@274872f8]" started-at="2025-03-11T13:18:55 IST" name="tearDown" finished-at="2025-03-11T13:18:57 IST" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.Test_Product -->
+      <class name="testCase.Test_RegisterAccount">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCase.Test_RegisterAccount@1643d68f]" started-at="2025-03-11T13:15:39 IST" name="setUp" finished-at="2025-03-11T13:15:55 IST" duration-ms="16122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:testCase.Test_RegisterAccount@1643d68f]" started-at="2025-03-11T13:15:55 IST" name="login" finished-at="2025-03-11T13:16:08 IST" duration-ms="13260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:testCase.Test_RegisterAccount@1643d68f]" started-at="2025-03-11T13:16:08 IST" name="takeScreenshotOnFailure" finished-at="2025-03-11T13:16:08 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=Test_RegisterAccount.login()[pri:0, instance:testCase.Test_RegisterAccount@1643d68f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.Test_RegisterAccount@1643d68f]" started-at="2025-03-11T13:16:08 IST" name="tearDown" finished-at="2025-03-11T13:16:11 IST" duration-ms="2281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.Test_RegisterAccount -->
+      <class name="testCase.Test_Login">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCase.Test_Login@186978a6]" started-at="2025-03-11T13:16:11 IST" name="setUp" finished-at="2025-03-11T13:16:19 IST" duration-ms="7916" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidLogin()[pri:0, instance:testCase.Test_Login@186978a6]" started-at="2025-03-11T13:16:19 IST" name="testValidLogin" finished-at="2025-03-11T13:16:38 IST" duration-ms="19059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:testCase.Test_Login@186978a6]" started-at="2025-03-11T13:16:38 IST" name="takeScreenshotOnFailure" finished-at="2025-03-11T13:16:38 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testValidLogin status=SUCCESS method=Test_Login.testValidLogin()[pri:0, instance:testCase.Test_Login@186978a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.Test_Login@186978a6]" started-at="2025-03-11T13:16:38 IST" name="tearDown" finished-at="2025-03-11T13:16:40 IST" duration-ms="2652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.Test_Login -->
+    </test> <!-- chrometest -->
+  </suite> <!-- Suite -->
+</testng-results>
