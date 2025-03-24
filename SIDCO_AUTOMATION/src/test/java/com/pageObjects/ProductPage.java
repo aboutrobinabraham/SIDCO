@@ -147,6 +147,8 @@ public class ProductPage extends BasePage  {
 	WebElement productNameinDetailsPage;
 	@FindBy(xpath = "//a[@class=\"text-[var(--primary)] font-normal\"]")
 	WebElement brandNameinDetailsPage;
+	
+	String Push="pushed";
 
     
 	private int AllCount,SearchCount,AllCountAfterClear,AllCountWithFilter,AllCountWithoutFilter;
